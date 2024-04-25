@@ -8,17 +8,20 @@
 - [Contributing](#contributing)
 
 ## Introduction
-Linux_ScreenShot is a Python script that allows you to capture and save screenshots from your Linux computer. It uses the OpenCV library for image processing and the pyautogui library for interacting with the computer's screen.
+Linux_ScreenShot is a Python script that allows you to capture and save screenshots from your Linux computer. <br>
+It uses the OpenCV library for image processing and the pyautogui library for interacting with the computer's screen.<br>
+### Note: This Only Work in Linux Now, I'm so Sorry
 
-## Installation
-To use Linux_ScreenShot, you will need to have Python installed on your Linux computer. You can download Python from the official website: [https://www.python.org/downloads/](https://www.python.org/downloads/).
+## Installation<br>
+To use Linux_ScreenShot, you will need to have Python installed on your Linux computer. You can download Python from the official website:
+<br>[https://www.python.org/downloads/](https://www.python.org/downloads/).
 
-Once you have Python installed, you can install the required libraries by running the following command in your terminal:
-<code>pip install opencv-python numpy pyperclip pyautogui</code>
+Once you have Python installed, you can install the required libraries by running the following command in your terminal:<br>
+<code>pip install opencv-python numpy pyperclip pyautogui</code><br>
 
 ## Usage
-To use Linux_ScreenShot, simply run the script using the following command:
-<code>python Linux_ScreenShot.py</code> <br>or <code>python3 Linux_ScreenShot.py</code>
+To use Linux_ScreenShot, simply run the script using the following command:<br>
+<code>python Linux_ScreenShot.py</code> <br>or <code>python3 Linux_ScreenShot.py</code><br>
 
 When the script starts, it will prompt you to press Enter to capture the screen. <br>
 After you press Enter, you can draw a rectangle on the screen to select the area you want to capture. <br>
