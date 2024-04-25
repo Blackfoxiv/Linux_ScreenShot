@@ -24,7 +24,7 @@ To use Linux_ScreenShot, simply run the script using the following command:<br>
 <code>python Linux_ScreenShot.py</code> <br>or <code>python3 Linux_ScreenShot.py</code><br>
 
 When the script starts, it will prompt you to press Enter to capture the screen. <br>
-After you press Enter, you can draw a rectangle on the screen to select the area you want to capture. <br>
+After you press Enter, you has 4 Optional: <br>
 
 -Press Enter to Save it to File <br>
 -Press <b>C</b> to save the selected ROI as an image.( use Mouse draw a select region first) <br>
