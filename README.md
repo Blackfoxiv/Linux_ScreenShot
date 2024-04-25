@@ -34,7 +34,7 @@ After you press Enter, you has 4 Optional: <br>
  (( Please Don't Ask me when, I Don't Know :(( ))<br>
 <br>
 
-#Default Path is './Screenshots/'
+#Default Path is './Screenshots/' <br>
 Optionally, you can enter a file name to save the image. <br>
 If you skip this step, a random file name will be generated. <br>
 The program will save the image in the ScreenShots directory in the current working directory. 
