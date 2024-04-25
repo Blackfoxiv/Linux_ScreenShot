@@ -27,12 +27,12 @@ When the script starts, it will prompt you to press Enter to capture the screen.
 After you press Enter, you can draw a rectangle on the screen to select the area you want to capture. <br>
 
 -Press Enter to Save it to File <br>
+-Press <b>C</b> to save the selected ROI as an image.( use Mouse draw a select region first) <br>
+-Press <b>Q</b> to quit the program.<br>
 -Press <b>Y</b> to Copy to Clipboard.<br>
 (<b>Sorry but it not working now, Don't worry i will fix it)</b> <br>
  (( Please Don't Ask me when, I Don't Know :(( ))<br>
 <br>
--Press <b>C</b> to save the selected ROI as an image.( use Mouse draw a select region first) <br>
--Press <b>Q</b> to quit the program.<br>
 
 #Default Path is './Screenshots/'
 Optionally, you can enter a file name to save the image. <br>
